@@ -9,8 +9,8 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
 # Google Custom Search API
-API_KEY = 'AIzaSyC6xY51ulwPp6tj6q47NStHp0F9Ia5x8Jo'  # Replace with your actual API key
-CSE_ID = '24b484e78ed2b41f4'    # Replace with your actual CSE ID
+API_KEY = 'YOUR_API_KEY'  # Replace with your actual API key
+CSE_ID = 'YOUR_CSE_ID'    # Replace with your actual CSE ID
 
 def google_search(query, api_key, cse_id, num=10): # The default number of results is 10 according to a google search page in the custom API
     results = []
