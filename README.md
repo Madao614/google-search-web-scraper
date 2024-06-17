@@ -98,13 +98,10 @@ Contributions are welcome! Follow these steps to contribute:
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/google-search-web-scraper/issues/new) on GitHub.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact
 
-For questions or feedback, feel free to reach out to [Your Name](mailto:youremail@example.com).
+For questions or feedback, feel free to reach out to a.s.rayleigh@gmail.com
 
 
 
